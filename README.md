@@ -26,9 +26,6 @@ I’m a software engineer focused on building scalable systems, clean architectu
 
 ### Frontend
 - React
-- Vite
-- HTML5 / CSS3
-- TailwindCSS
 
 ### Backend
 - Node.js
@@ -83,32 +80,22 @@ A collection of scripts and workflows to automate server setup, deployments, and
 
 ---
 
-## 📈 GitHub Stats
-
-*(Optional section if you want to connect GitHub widgets later)*
-
----
-
 ## 🎯 Current Focus
 
-I’m currently focused on:
-- Building production-ready full-stack applications
-- Improving system design skills
-- Deploying scalable cloud infrastructure
-- Preparing for senior-level engineering roles
+I’m currently focused on building and scaling a full-stack car marketplace platform, handling both frontend and backend development, as well as deployment and infrastructure decisions.
 
----
+Key areas I’m working on:
+- Designing and developing a production-ready car marketplace (listings, search, user flows)
+- Building scalable backend architecture for real-world usage
+- Implementing authentication, payments, and data management
+- Deploying and optimizing cloud infrastructure for performance and cost efficiency
+- Improving system design and product engineering skills through this project
+
+My goal is to turn this project into a real, usable product deployed in production.
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/ariel-irigoyen-338394202/
+- Email: arielic1995@example.com
+- GitHub: https://github.com/your-devares5
 
----
-
-## ⚡ Fun Fact
-
-I like building systems from scratch and understanding how things work under the hood — from frontend UI all the way to infrastructure.
-
----
