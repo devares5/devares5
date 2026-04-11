@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ariel Irigoyen
 
-## 💻 Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
+## 💻 Full-Stack Developer | Cloud & DevOps Enthusiast
 
 I’m a software engineer focused on building scalable systems, clean architectures, and real-world products that solve meaningful problems. I enjoy working across the stack and bridging development with infrastructure.
 
